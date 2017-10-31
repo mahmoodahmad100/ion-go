@@ -1,2 +1,2 @@
 # ion-go
-ionic framework repo
+this is an ionic framework repo
